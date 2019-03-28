@@ -1,0 +1,50 @@
+.helloDessert, .helloDinner, .helloBanana, .helloHome {
+  background-color: #4e6272;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+.helloHome {
+  content: "IAMFOOD";
+}
+
+.helloBanana {
+  content: "Banana Chocolate Chip Muffins";
+}
+
+.helloDinner {
+  content: "DINNER";
+}
+
+.helloDessert {
+  content: "DESSERTS";
+}
+
+#homeSubtitle {
+  padding: 30px;
+}
+
+.pageBottom {
+  padding: 30px;
+}
+
+.recipeImage {
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.recipe {
+  margin-left: 100px;
+}
+
+.recipeTable {
+  width: 50%;
+}
+
+.space {
+  height: 30px;
+}
+
+/*# sourceMappingURL=styles.css.map */
